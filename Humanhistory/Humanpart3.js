@@ -12,7 +12,7 @@ function select(){
         
         }
         else if (opcao ===3) {
-            return window.location.href = "./Humanend.html"
+            return window.location.href = "./humanend.html"
 
         }
         else { alert ("Escolha uma das opções existentes")
