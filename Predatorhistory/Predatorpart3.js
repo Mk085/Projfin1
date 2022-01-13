@@ -3,16 +3,16 @@ function select(){
     while (opcao ===1 || opcao ===2 || opcao ===3)
 
         if (opcao ===1) {
-        return window.location.href ="./Predatorhistory/Predatorpart3consequence1.html"
+        return window.location.href ="./Predatorpart3consequence1.html"
         
         }
             
         else if (opcao ===2) {
-            return window.location.href = "./Predatorhistory/Predatorend.html"
+            return window.location.href = "./Predatorend.html"
         
         }
         else if (opcao ===3) 
-            return window.location.href = "./Predatorhistory/Predatorpart3consequence3.html"
+            return window.location.href = "./Predatorpart3consequence3.html"
 
         
         else {} alert ("Escolha uma das opções existentes") 
