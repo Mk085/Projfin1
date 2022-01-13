@@ -8,7 +8,7 @@ function select(){
         }
             
         else if (opcao ===2) {
-            return window.location.href = "./humanpart3.html"
+            return window.location.href = "./Humanpart3.html"
         
         }
         else if (opcao ===3) {
